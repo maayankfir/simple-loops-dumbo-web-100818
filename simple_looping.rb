@@ -7,7 +7,7 @@ counter = 0
     puts phrase
     counter += 1
     break if counter == number_of_times
-    
+
   end
   end
 
